@@ -1,0 +1,6 @@
+.custom-background {
+  background-image: url('https://play.tailwindcss.com/img/beams.jpg');
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
